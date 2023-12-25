@@ -11,6 +11,7 @@ The main languages and frameworks I work on is as follows :-
 
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,docker,mysql,huggingface&theme=light)](https://skillicons.dev)
 
+<!--
   <a href="https://huggingface.co/spaces/Yuliang/ICON"  style='padding-left: 0.5rem;'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-orange'></a><br></br>
 On the side, I'd work on improving my skills in
 
