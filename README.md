@@ -2,6 +2,7 @@
 I research & develop primarily in the field of Computer Vision & Natural Language Processing. Love to solve problems based on 
 
 - Image segmentation/classification(2D/3D)
+- Image Generation
 - Video recognition tasks
 - Multi-modality based problems
 - Text classification
